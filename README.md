@@ -22,10 +22,10 @@ This User Group provides you plenty of benefits, You will be getting access to v
 AWS & Cloud Computing, DevOps Enthusiasts, Passionate Developers, Architects, Users & Evangelists, and Students irrespective of the experience/knowledge/region.
 
 **𝐇𝐨𝐰 𝐭𝐨 𝐣𝐨𝐢𝐧 𝐮𝐬?**
+
 Follow & Click on Register: https://lnkd.in/dNcQKZU
 
 YouTube Channel: http://bit.ly/awsugjpr
-
 
 
 
@@ -33,10 +33,10 @@ YouTube Channel: http://bit.ly/awsugjpr
 <img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href=" ">
-<img align="left" alt="priyanka prasad  LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="  LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href=" ">
-<img align="left" alt="priyanka prasad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<img align="left" alt="aws " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/awsugjaipur/">
 <img align="left" alt="AWS UG JAIPUR" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
