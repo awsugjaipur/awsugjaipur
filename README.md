@@ -35,6 +35,11 @@ YouTube Channel: http://bit.ly/awsugjpr
 <a href=" ">
 <img align="left" alt="  LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
+<a href="https://www.youtube.com/channel/UC9iaGo_TeBnvt_dcOYZ0B-w">
+<img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
 <a href=" ">
 <img align="left" alt="aws " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
