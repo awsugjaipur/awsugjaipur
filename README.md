@@ -29,10 +29,10 @@ YouTube Channel: http://bit.ly/awsugjpr
 
 
 
-<a href="">
+<a href="https://twitter.com/awsugjaipur">
 <img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href=" ">
+<a href="">
 <img align="left" alt="  LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -40,9 +40,6 @@ YouTube Channel: http://bit.ly/awsugjpr
 <img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
-<a href=" ">
-<img align="left" alt="aws " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
 <a href="https://www.instagram.com/awsugjaipur/">
 <img align="left" alt="AWS UG JAIPUR" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
